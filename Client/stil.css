@@ -1,0 +1,63 @@
+.glavni-kontejner{
+    display: flex;
+    margin:5px 5px 5px 5px;
+    flex-direction: column;
+}
+
+.slika-nis{
+
+    height: 100px;
+    width: 150px;
+    
+}
+.select-dugmad{
+    align-self: center;
+    margin:5px 5px 5px 5px;
+}
+
+.slika-grada{
+    text-align: center;
+}
+
+.grad-kontejner{
+    text-align: center;
+    margin:5px 5px 5px 5px;
+}
+
+.radio-dugmad{
+    text-align: center;
+}
+
+.mesec-kontejner{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+
+.mesec-levi-kontejner{
+
+    display: flex;
+    flex-direction:row;
+    
+}
+
+.mesec-div{
+
+    display: flex;
+    flex-direction: column;  
+    margin-left: 20px; 
+    border:1px solid black;
+}
+
+.div-stubic{
+    height: 100px;
+    width: 40px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+
+.select-polje{
+    margin-left: 50px;
+}

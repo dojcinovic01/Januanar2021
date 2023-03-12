@@ -1,0 +1,59 @@
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.csproj.AssemblyReference.cache
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.AssemblyInfoInputs.cache
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.AssemblyInfo.cs
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.csproj.CoreCompileInputs.cache
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.MvcApplicationPartsAssemblyInfo.cs
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.MvcApplicationPartsAssemblyInfo.cache
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\appsettings.Development.json
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\appsettings.json
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Januar 2021.exe
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Januar 2021.deps.json
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Januar 2021.runtimeconfig.json
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Januar 2021.runtimeconfig.dev.json
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Januar 2021.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\ref\Januar 2021.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Januar 2021.pdb
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Humanizer.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V semestar\Web programiranje\Januar 2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\staticwebassets\Januar 2021.StaticWebAssets.Manifest.cache
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\staticwebassets\Januar 2021.StaticWebAssets.xml
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\scopedcss\bundle\Januar 2021.styles.css
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.RazorTargetAssemblyInfo.cache
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.csproj.CopyComplete
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.dll
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\ref\Januar 2021.dll
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.pdb
+D:\V semestar\Web programiranje\Januar 2021\obj\Debug\net5.0\Januar 2021.genruntimeconfig.cache
